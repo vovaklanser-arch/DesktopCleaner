@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.env
+settings.json
+patch_ui.py
